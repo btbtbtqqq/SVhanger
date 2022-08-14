@@ -1,6 +1,10 @@
 # Processing VCF file Framework of Structural Variant (SV)
+---
 【1】Display Statistical genotypes information and Length distribution of structural variants.<br>
 【2】Merge SVs into VCF file of One Sample.<br>
+
+
+
 ---
 【1】 SVs' genotypes statistics <br>
 Two main steps:<br>
