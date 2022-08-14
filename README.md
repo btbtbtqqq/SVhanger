@@ -1,1 +1,1 @@
-# Processing Framework of VCF file of Structural Variant  
+# Processing VCF file Framework of Structural Variant (SV)
