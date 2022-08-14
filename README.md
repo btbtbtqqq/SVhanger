@@ -8,7 +8,7 @@ Two main steps:<br>
     (1)Statistical genotypes information fo structural variants from VCF file<br>
     Display SV statistical result in Terminal<br>
     (2)Generate (phased_SV_length_destribution) in CSV<br>
-
+【2】Merge VCF (these vcf-files represent one sample).<br>
 ---
 #### Usage
 
