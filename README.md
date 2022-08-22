@@ -1,7 +1,18 @@
-# Processing VCF file Framework of Structural Variant (SV)
+# Processing VCF file Framework of Structural Variant (SV) 
 ---
-【1】Display Statistical genotypes information and Length distribution of structural variants.<br>
+This tool set provides below function to display, compare,merge, filter the vcf files of structural variants(SVs) or SNPs
+
+【SV_stat_vcf.py】Display Statistical genotypes information and Length distribution of structural variants.<br>
 【2】Merge SVs into VCF file of One Sample.<br>
+
+
+
+
+
+
+
+
+
 
 
 
